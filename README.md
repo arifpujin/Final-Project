@@ -9,10 +9,14 @@
 <br>
 FINAL PROJECT
 <br><br>
-* Has a slider image
-* Use the form and use <a href="https://formspree.io/" target="_blank">Formspree</a> to see the submit results from the form
-* Using capital
-* Has 3 pages (minimum)
-<br><br><br>
+<ul>
+  <li>Has a slider image</li>
+  <li>Use the form and use <a href="https://formspree.io/" target="_blank">Formspree</a> to see the submit results from the form.</li>
+  <li>Using capital</li>
+  <li>Has 3 pages (minimum)</li>
+</ul>
+<br><br>
+<img width="50%" src="https://github.com/arifpujin/Final-Project/blob/master/images/final-Project.PNG" alt="Gambar">
+<br>
 edited by https://arifpujin.com
 email : <a href="mailto:arifpujinugroho@gmail.com" target="_blank">arifpujinugroho@gmail.com</a>
